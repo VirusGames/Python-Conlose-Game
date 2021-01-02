@@ -1,6 +1,5 @@
 # Python-Conlose-Game
-Test repository
-
+Test repository;
 In version 1.0:
 
 Working player menu
