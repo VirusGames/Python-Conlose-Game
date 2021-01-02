@@ -238,4 +238,4 @@ while (scene.player1.HP>0 and scene.player2.HP>0):
 if (scene.player1.HP<=0):
     print("You lose!\nGood luck for the next time!")
 elif (scene.player2.HP<=0):
-    print("Congratulations! You win!")
+    print("Congratulations!\nYou win!")
